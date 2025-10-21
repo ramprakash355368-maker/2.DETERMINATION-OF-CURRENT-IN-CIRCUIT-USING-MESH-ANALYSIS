@@ -42,6 +42,8 @@
 **CALCULATION:**
 ![WhatsApp Image 2025-10-21 at 17 48 32_6684d71e](https://github.com/user-attachments/assets/2fbaae5d-3486-4dad-a843-0a1dc6ad0060)
 
+**MARKS SPLIT UP:**
+![WhatsApp Image 2025-10-21 at 18 21 34_c4df8ef7](https://github.com/user-attachments/assets/06e2d1f2-c4ff-4054-b9b9-e858e609d26a)
 
    **RESULT:**
 
