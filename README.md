@@ -21,6 +21,7 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+![WhatsApp Image 2025-10-21 at 17 48 31_93128c44](https://github.com/user-attachments/assets/513d3efa-30c3-4a2c-bd1d-0f287f5ab49d)
 
 **PROCEDURE:** 
 
@@ -36,13 +37,19 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+**TABULATION:**
+![WhatsApp Image 2025-10-21 at 17 48 32_09cc5937](https://github.com/user-attachments/assets/f41ecb96-4aca-45dc-9934-26bd5e534f1c)
+**CALCULATION:**
+![WhatsApp Image 2025-10-21 at 17 48 32_6684d71e](https://github.com/user-attachments/assets/2fbaae5d-3486-4dad-a843-0a1dc6ad0060)
+
+
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	9.10mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	8.84mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	0.07mA.
 
